@@ -11,9 +11,9 @@ disqusShortname = "yourdiscussshortname"
 style = "github-dark"
 
 [params]
-  author = "John Doe"
-  info = "Full Stack DevOps and Magician"
-  description = "John Doe's personal website"
+  author = "Davide Ferrero"
+  info = "Software & Firmware Developer"
+  description = "Davide Ferrero personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
   #gravatar = "john.doe@example.com"
@@ -44,39 +44,39 @@ style = "github-dark"
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/johndoe/"
+  url = "https://github.com/deid84/"
 [[params.social]]
   name = "Gitlab"
   icon = "fa fa-gitlab fa-2x"
   weight = 2
-  url = "https://gitlab.com/johndoe/"
+  url = "https://gitlab.com/deid84/"
 [[params.social]]
   name = "Linkedin"
   icon = "fa fa-linkedin fa-2x"
   weight = 3
-  url = "https://twitter.com/johndoe/"
+  url = "https://www.linkedin.com/in/davideferrero/"
 [[params.social]]
-  name = "Linkedin"
+  name = "Telegram"
   icon = "fa fa-telegram fa-2x"
   weight = 3
-  url = "https://twitter.com/johndoe/"
+  url = "https://t.me/deid84"
 [[params.social]]
   name = "Youtube"
   icon = "fa fa-youtube fa-2x"
   weight = 3
-  url = "https://twitter.com/johndoe/"
+  url = "https://www.youtube.com/c/deidlab"
 [[params.social]]
-  name = "Youtube"
+  name = "Mail"
   icon = "fa fa-envelope-o fa-2x"
   weight = 3
-  url = "https://twitter.com/johndoe/"
+  url = "mailto:info@deid.it"
 
 # Menu links
-[[menu.main]]
-  name = "Blog"
-  weight = 1
-  url  = "posts/"
-[[menu.main]]
-  name = "About"
-  weight = 2
-  url = "about/"
+# [[menu.main]]
+#   name = "Blog"
+#   weight = 1
+#   url  = "posts/"
+# [[menu.main]]
+#   name = "About"
+#   weight = 2
+#   url = "about/"
