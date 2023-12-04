@@ -15,7 +15,7 @@ style = "github-dark"
   info = "Software & Firmware Developer"
   description = "Davide Ferrero personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  avatarurl = "/img/avatar.jpg"
   #gravatar = "john.doe@example.com"
 
   faviconSVG = "/img/favicon.svg"
@@ -45,11 +45,11 @@ style = "github-dark"
   icon = "fa fa-github fa-2x"
   weight = 1
   url = "https://github.com/deid84/"
-[[params.social]]
-  name = "Gitlab"
-  icon = "fa fa-gitlab fa-2x"
-  weight = 2
-  url = "https://gitlab.com/deid84/"
+# [[params.social]]
+#   name = "Gitlab"
+#   icon = "fa fa-gitlab fa-2x"
+#   weight = 2
+#   url = "https://gitlab.com/deid84/"
 [[params.social]]
   name = "Linkedin"
   icon = "fa fa-linkedin fa-2x"
@@ -65,6 +65,11 @@ style = "github-dark"
   icon = "fa fa-youtube fa-2x"
   weight = 3
   url = "https://www.youtube.com/c/deidlab"
+  [[params.social]]
+  name = "Medium"
+  icon = "fa fa-medium fa-2x"
+  weight = 3
+  url = "https://medium.com/@deid84"
 [[params.social]]
   name = "Mail"
   icon = "fa fa-envelope-o fa-2x"
