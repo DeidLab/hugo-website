@@ -15,12 +15,12 @@ style = "github-dark"
   info = "Software & Firmware Developer"
   description = "Davide Ferrero personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "/img/avatar.png"
+  avatarurl = "./img/avatar.png"
   #gravatar = "john.doe@example.com"
 
-  faviconSVG = "/img/favicon.svg"
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
+  faviconSVG = "./img/favicon.svg"
+  favicon_32 = "./img/favicon-32x32.png"
+  favicon_16 = "./img/favicon-16x16.png"
 
   since = 2023
 
